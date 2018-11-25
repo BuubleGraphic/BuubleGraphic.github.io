@@ -99,3 +99,14 @@
 	width: 100%;
 	background-color: #070e1d;
 }
+footer {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: #fff;
+}
+footer p {
+	color: black;
+}
