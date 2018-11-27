@@ -107,7 +107,7 @@ footer .container {
 	text-align: center;
 	background-color: #fff;
 }
-footer a {
+footer p {
 	color: black;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -116,7 +116,7 @@ footer a {
 	margin-top: 15px;
 	transition: 0.3s ease-in-out;
 }
-footer a:hover {
+footer p:hover {
 	color: orange;
 	text-decoration: none;
 }
