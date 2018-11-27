@@ -120,3 +120,12 @@ footer a:hover {
 	color: orange;
 	text-decoration: none;
 }
+
+@media screen and (min-width:480px) and (max-width:800px) {
+	.logotype {
+		height: 3em;
+	}
+	#start h2 {
+		font-size: 24px;
+	}
+}
