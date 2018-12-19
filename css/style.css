@@ -53,10 +53,11 @@
 	margin-bottom: 50px;
 }
 #vk_groups {
-	display: contents;
+	display: inline;
+
 }
 #vk_groups iframe {
-	margin-bottom: 100px;
+	margin-bottom: 70px;
 }
 footer {
 	width: 100%;
